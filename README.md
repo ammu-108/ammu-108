@@ -21,3 +21,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ammu-108&show_icons=true&locale=en&layout=compact" alt="ammu-108" /></p>
 
+![KD's GitHub stats](https://github-readme-stats.vercel.app/api?username=ammu-108&show_icons=true&theme=synthwave)
